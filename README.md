@@ -30,16 +30,20 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+- Клонируйте этот репозиторий.
    ```sh
    git clone https://github.com/yummy1gay/fake-xrocket.git
    ```
-2. Установите необходимые зависимости:
-   ```sh
-   pip install -r requirements.txt
+- Смените директорию
+   ```sh 
+   cd ton-bot
    ```
-3. Настройте конфигурацию в `config.py`.
-4. Запустите бота:
+- Установите необходимые зависимости:
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+- Настройте конфиг в `config.py`.
+- Запустите бота:
    ```sh
    python main.py
    ```
