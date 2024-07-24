@@ -36,7 +36,7 @@ git clone https://github.com/yummy1gay/fake-xrocket.git
 ```
 - Смените директорию
 ```sh 
-cd ton-bot
+cd fake-xrocket
 ```
 - Установите необходимые зависимости
 ```sh
