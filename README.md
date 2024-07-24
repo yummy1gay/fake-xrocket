@@ -28,6 +28,22 @@
 ## Конфигурация
 Все настройки бота находятся в файле `config.py`, где подробно расписаны все параметры и возможные опции.
 
+## Установка и запуск
+
+1. Клонируйте репозиторий:
+   ```sh
+   git clone https://github.com/yummy1gay/fake-xrocket.git
+   ```
+2. Установите необходимые зависимости:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Настройте конфигурацию в `config.py`.
+4. Запустите бота:
+   ```sh
+   python main.py
+   ```
+
 ## Примеры
 <p align="center">
   <img src="https://github.com/yummy1gay/fake-xrocket/blob/main/images/1.PNG" width="200">
