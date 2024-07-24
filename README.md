@@ -44,9 +44,9 @@ pip3 install -r requirements.txt
 ```
 - Настройте конфиг в `config.py`.
 
-- Запустите бота:
-```sh
-python main.py
+### Запуск бота
+```sh 
+python3 main.py
 ```
 
 ## Примеры
